@@ -1,10 +1,10 @@
-package com.trilogyed.cloudconfigservice;
+package com.trilogyed.hellocloudservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CloudConfigServiceApplicationTests {
+class HelloCloudServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
